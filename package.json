@@ -1,5 +1,5 @@
 {
-  "name": "react-native-multiple-select-customized",
+  "name": "@tareksmoubarak/react-native-multiple-select-customized",
   "version": "0.5.5",
   "description": "Simple multi-select component for react-native",
   "main": "index.js",
