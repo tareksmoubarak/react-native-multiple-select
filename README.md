@@ -1,5 +1,5 @@
-# react-native-multiple-select
-
+# react-native-multiple-select-edited Tarek S. Moubarak
+<!-- 
 [![npm](https://img.shields.io/npm/v/react-native-multiple-select.svg)](https://www.npmjs.com/package/react-native-multiple-select) [![Downloads](https://img.shields.io/npm/dt/react-native-multiple-select.svg)](https://www.npmjs.com/package/react-native-multiple-select) [![Licence](https://img.shields.io/npm/l/react-native-multiple-select.svg)](https://www.npmjs.com/package/react-native-multiple-select)
 
 > Simple multi-select component for react-native (Select2 for react-native).
@@ -232,4 +232,4 @@ Here is list of [CONTRIBUTORS](CONTRIBUTORS.md)
 
 ## License
 
-The MIT License (MIT). Please see [LICENSE](LICENSE) for more information.
+The MIT License (MIT). Please see [LICENSE](LICENSE) for more information. -->
